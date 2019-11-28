@@ -8,3 +8,6 @@ Arkanoid Game on DE1-SOC FPGA Board
 * R - Reset
 * N - Next Level
 * SPACE - Begin Game
+
+## Run
+Directly use Quartus II programmer and Arkanoid.sof OR compile using source. 
